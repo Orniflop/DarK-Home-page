@@ -1,0 +1,14 @@
+h1 {
+    color:red;
+    font: 62px trattatello;
+}
+p {
+    color:rgb(154, 241, 12);
+    font: 32px serif;
+    text-indent: 40px;
+    text-align: justify;
+}
+a {
+    color:rgb(255, 166, 0);
+    font: 32px serif;
+}
