@@ -2,6 +2,10 @@ h1 {
     color:red;
     font: 62px trattatello;
 }
+h2 {
+    color:rgb(10, 157, 241);
+    font: 42px trattatello;
+}
 p {
     color:rgb(154, 241, 12);
     font: 32px serif;
